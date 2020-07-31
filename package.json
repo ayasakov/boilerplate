@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "description": "ReactJS + Node.JS + TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayasakov/boilerplate.git"
+  },
+  "author": "Artem Yasakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayasakov/boilerplate/issues"
+  },
+  "homepage": "https://github.com/ayasakov/boilerplate#readme"
+}
