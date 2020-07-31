@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ayasakov/boilerplate/issues"
   },
-  "homepage": "https://github.com/ayasakov/boilerplate#readme"
+  "homepage": "https://github.com/ayasakov/boilerplate#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.7"
+  }
 }
